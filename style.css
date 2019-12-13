@@ -1,0 +1,17 @@
+.navbar {
+	display: flex;
+	background-color: orange;
+	flex-direction: row;
+	justify-content: space-around;
+}
+.content {
+	display: flex;
+	justify-content: center;
+	flex-flow: row wrap;
+	align-items: center;
+	background-color: antiquewhite;
+}
+.news {
+	display: absolute;
+	width: 33%;
+}
